@@ -4,6 +4,6 @@ We have to change the already written mbedTLS library from C language to Rust. R
 My task is to convert one of the module of mbedTLS library ie. RNG (Random Number Generation) Module to Rust language.
 
 ### Contributer:
-Mukul Sharma
+Mukul Sharma, 
 Aman Sachan
 
